@@ -1,0 +1,6 @@
+[package]
+name = "pulldown_cmark_playground"
+version = "0.1.0"
+authors = ["himanoa <matsunoappy@gmail.com>"]
+
+[dependencies]
